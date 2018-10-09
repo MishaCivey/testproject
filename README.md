@@ -1,8 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-[![Travis build
-status](https://travis-ci.org/MishaCivey/testproject.svg?branch=master)](https://travis-ci.org/MishaCivey/testproject)
+Master: [![Travis build
+status](https://travis-ci.org/MishaCivey/testproject.svg?branch=master)](https://travis-ci.org/MishaCivey/testproject/branches)
+
+Staging: [![Travis build
+status](https://travis-ci.org/MishaCivey/testproject.svg?branch=staging)](https://travis-ci.org/MishaCivey/testproject/branches)
 
 [![Coverage
 status](https://codecov.io/gh/MishaCivey/testproject/branch/master/graph/badge.svg)](https://codecov.io/github/MishaCivey/testproject?branch=master)
