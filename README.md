@@ -4,6 +4,9 @@
 [![Travis build
 status](https://travis-ci.org/MishaCivey/testproject.svg?branch=master)](https://travis-ci.org/MishaCivey/testproject)
 
+[![Coverage
+status](https://codecov.io/gh/MishaCivey/testproject/branch/master/graph/badge.svg)](https://codecov.io/github/MishaCivey/testproject?branch=master)
+
 # testproject
 
 The goal of testproject is to …

@@ -17,5 +17,7 @@ Imports:
     rlang (>= 0.1.2)
 Suggests: 
     roxygen2,
-    spelling
+    spelling,
+    covr,
+    testthat
 Language: en-US
