@@ -19,5 +19,6 @@
 #' @export
 #'
 hello <- function() {
+  1+1
   print("Hello, world!")
 }
