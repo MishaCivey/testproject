@@ -22,3 +22,7 @@ hello <- function() {
   1+1
   print("Hello, world!")
 }
+
+non_covered <- function() {
+  2 + 3
+}
